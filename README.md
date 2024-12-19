@@ -133,7 +133,3 @@ The server will run on `http://localhost:3000`.
    - Use the token in the `Authorization` header for all authenticated requests:
      - Key: `Authorization`
      - Value: `Bearer {{token}}`
-
-## License
-
-This project is licensed under the MIT License.
