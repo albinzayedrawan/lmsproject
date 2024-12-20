@@ -57,7 +57,7 @@ This project is a Library Management System (LMS) built with Node.js, Express, M
 4. Seed the database with sample data:
 
    ```bash
-   npm run seed
+   node seed.js
    ```
 
 ### Running the Server
@@ -65,7 +65,7 @@ This project is a Library Management System (LMS) built with Node.js, Express, M
 Start the server:
 
 ```bash
-npm start
+node server.js
 ```
 
 The server will run on `http://localhost:3000`.
@@ -117,7 +117,7 @@ The server will run on `http://localhost:3000`.
      ```json
      {
        "email": "john.doe@library.com",
-       "password": "password"
+       "password": "password123"
      }
      ```
 
