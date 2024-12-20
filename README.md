@@ -36,8 +36,8 @@ This project is a Library Management System (LMS) built with Node.js, Express, M
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/albinzayedrawan/lmsproject.git
+   cd lmsproject
    ```
 
 2. Install dependencies:
